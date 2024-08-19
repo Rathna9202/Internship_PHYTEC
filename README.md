@@ -147,4 +147,10 @@ Take Input pin PC9 and Output pin PA8
 
 7. Write a code to control the LED PA5 using UART when we press cha ‘N’ or ‘n’ then led will turn on and if we press char ‘F’ or ‘f’ then led will turn off.
 
+05_ADC_PWM
+1. Write a function that will create delay in millisecond using systick delay
+
+2. Write a code to interface soil sensor and turn off led PA5 when water is present at appropriate level and turn on PA5 when water is not present.
+
+3. Write a code to change the intensity of light it decreases from 100 % to 25 % after one second
 

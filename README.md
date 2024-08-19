@@ -154,3 +154,10 @@ Take Input pin PC9 and Output pin PA8
 
 3. Write a code to change the intensity of light it decreases from 100 % to 25 % after one second
 
+06_I2C_RTC
+1. Write a code for STM32 to Display TIME and DATE on 16x2 LCD use I2C LCD Module  and internel  RTC  Module.
+
+2. Write a code for STM32 to Display TIME in 24 Hour Format and DATE on 16x2 LCD  Module  and external RTC DS1307 Module.
+
+3. Write a code for STM32 to Display TIME in 12 Hour Format and DATE on 16x2 LCD  Module  and external RTC DS1307 Module.
+

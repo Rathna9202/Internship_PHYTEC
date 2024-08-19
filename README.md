@@ -172,3 +172,5 @@ Take Input pin PC9 and Output pin PA8
 
 5.  Write a code for STM32 to Display TIME and DATE ,use internel RTC Module.
 
+08_MODBUS_RTU_2chRelay
+1.  Modbus RTU 2CH relay module RS485/TTL UART 2CH IN 2CH OUT [When the Relay channel 1 open, The LED will glow and when Relay channel 1 close, The LED will off].

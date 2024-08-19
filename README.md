@@ -119,4 +119,17 @@ Take Input pin PC9 and Output pin PA8
 
    With Interrupt
 
-03_
+03_7Seg_Keyboard :-
+1. Display 0 – 9 on 7 segment
+
+2. Write a program in keypad matrix to see in which row key is pressed and print the corresponding row
+
+3. Write a program to interface keypad with STM32 and if we press any key it should print “Key pressed”.
+
+4. Write a program in keypad matrix to print the keypad value corresponding to key pressed in keypad matrix
+
+5. Write a program to display the number pressed on the keypad on 7 segment
+
+6. Write a program to toggle the LED number of times displayed on 7 segment
+
+

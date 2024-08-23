@@ -147,6 +147,10 @@ Take Input pin PC9 and Output pin PA8
 
 7. Write a code to control the LED PA5 using UART when we press cha ‘N’ or ‘n’ then led will turn on and if we press char ‘F’ or ‘f’ then led will turn off.
 
+8. Write a code to transfer and receive data between two STM32 boards
+
+9. Write a code to display data written in UART on LCD
+
 05_ADC_PWM
 1. Write a function that will create delay in millisecond using systick delay
 

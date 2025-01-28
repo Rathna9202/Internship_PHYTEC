@@ -1,3 +1,5 @@
+"STM32F446RE"
+
 01_GPIO  :-
 
 1. Write a c program to turn on led when we press the switch and turn off
